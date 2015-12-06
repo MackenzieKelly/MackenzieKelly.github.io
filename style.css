@@ -5,5 +5,5 @@
 .col-md-4 {
   padding-bottom: 10px;
   font-family: 'Oxygen', sans-serif;
-  border:1px dashed black;
+  border-bottom: :1px dashed black;
 }
