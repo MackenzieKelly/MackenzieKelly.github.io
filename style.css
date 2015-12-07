@@ -21,5 +21,9 @@
 
 h1{
   font-family: 'Dancing Script', cursive;
-  font-size: 30em;
+  font-size: 16em;
+}
+
+h4{
+  font-family: 'Dancing Script', cursive;
 }
